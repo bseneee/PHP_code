@@ -1,0 +1,39 @@
+[
+	{"ovog":"Bilegt",
+		"ner":"Bold",
+		"sisi":"18B1SEAS1234",
+		"mergejil":"IT",
+		"hicheel":[
+			{"ner":"Algorithmiin undes",
+			"index":"ICSI101",
+			"bagts":"3"
+			},
+			{"ner":"Matematic",
+			"index":"MATH102",
+			"bagts":"3"
+			}
+		]
+	},
+	{      "ovog":"Anhbayr",
+		"ner":"Uynga",
+		"sisi":"18B1SEAS1111",
+		"mergejil":"Computer's intelligience",
+		"hicheel":[
+			{"ner":"Algorithmiin undes",
+			"index":"ICSI101",
+			"bagts":"3"
+			}
+		]
+	},
+	{"ovog":"Navch",
+	"ner":"Tsetseg",
+	"sisi":"18B1SEAS1037",
+	"mergejil":"Programmer",
+	"hicheel":[
+			{"ner":"Algorithmiin undes",
+			"index":"ICSI101",
+			"bagts":"3"
+			}
+		]
+	}
+]

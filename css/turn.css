@@ -1,0 +1,23 @@
+ *{
+	margin:0px;
+	padding:0px;
+ }
+ body{
+	background-color:lightblue;
+	background-image:url("download.jpg");
+	background-repeat:no-repeat;
+ }
+ h1{
+	 margin-top:50px;
+	 margin-left:500px;
+	 color:green;
+ }
+ h1:hover{
+	 transparent:;
+	 
+	 
+ }
+ .input{
+	margin-left:400px;
+	 
+ }
